@@ -54,6 +54,24 @@
   <exec_depend>rospy</exec_depend>
 
 
+  <build_depend>turtlebot3</build_depend>
+  <build_export_depend>turtlebot3</build_export_depend>
+  <exec_depend>turtlebot3</exec_depend>
+
+
+  <build_depend>turtlebot3_simulations</build_depend>
+  <build_export_depend>turtlebot3_simulations</build_export_depend>
+  <exec_depend>turtlebot3_simulations</exec_depend>
+
+
+  <build_depend>turtlebot3_gazebo</build_depend>
+  <build_export_depend>turtlebot3_gazebo</build_export_depend>
+  <exec_depend>turtlebot3_gazebo</exec_depend>
+
+
+  <build_depend>turtlebot3_description</build_depend>
+  <build_export_depend>turtlebot3_description</build_export_depend>
+  <exec_depend>turtlebot3_description</exec_depend>
   <!-- The export tag contains other, unspecified, tags -->
   <export>
     <!-- Other tools can request additional information be placed here -->
